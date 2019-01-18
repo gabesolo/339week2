@@ -1,0 +1,14 @@
+body{
+	background: #fff3b2;
+	color: #235d91;
+	size: 200%;
+	margin: 1%
+}
+
+p{
+	font-family: Arial;
+}
+
+*{
+	color: red;
+}
